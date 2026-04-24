@@ -1,6 +1,6 @@
-# [Project Name: e.g., Handwritten Digit Recognition]
+# [Project Name:IT'S MY MACHINE LEARNING PRACTICE CODE]
 
-![Project Banner or Logo](link-to-image)
+
 
 ## 📌 Project Overview
 Provide a 2-3 sentence summary of what this project does and the problem it solves. 
